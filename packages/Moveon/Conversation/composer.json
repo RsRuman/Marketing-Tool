@@ -1,0 +1,15 @@
+{
+    "name": "moveon/conversation",
+    "autoload": {
+        "psr-4": {
+            "Moveon\\Conversation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RumanOnMove",
+            "email": "oruman@moveon.com.bd"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,16 @@
+{
+    "name": "moveon/email-template",
+    "description": "Fully customizable email template",
+    "autoload": {
+        "psr-4": {
+            "Moveon\\EmailTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RumanOnMove",
+            "email": "oruman@moveon.com.bd"
+        }
+    ],
+    "require": {}
+}

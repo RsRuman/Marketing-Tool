@@ -1,0 +1,16 @@
+{
+    "name": "moveon/image",
+    "description": "Marketing tool image solution",
+    "autoload": {
+        "psr-4": {
+            "Moveon\\Image\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RumanOnMove",
+            "email": "oruman@moveon.com.bd"
+        }
+    ],
+    "require": {}
+}
